@@ -1,0 +1,27 @@
+# Modern-Era Retrospective Analysis for Research and Applications (MERRA), version 2
+# Provider;National Aeronautics and Space Administration (NASA) / Goddard Space Flight Center
+# More information at;http://gmao.gsfc.nasa.gov/reanalysis/MERRA-2
+# Site latitude (positive means North);29.014
+# Site longitude (positive means East);77.777
+# Site altitude (m);224
+# Date beginning;2020-05-01
+# Date end;2020-05-02
+# Time reference (hour);UT
+# Summarization (period of integration);Day (d)
+# Date - Instant;The date or instant given for each value corresponds to the end of the summarization
+
+# Columns:
+# Temperature (K);Temperature at 2 m above ground
+# Relative humidity (%);Relative humidity at 2 m above ground
+# Pressure (hPa);Pressure at ground level
+# Wind speed (m/s);Wind speed at 10 m above ground
+# Wind direction (deg);Wind direction at 10 m above ground (0 means from North, 90 from East...)
+# Rainfall (kg/m2);Rainfall (= rain depth in mm)
+# Snowfall (kg/m2);Snowfall
+# Snow depth (m);Snow depth
+# Short-wave irradiation (Wh/m2);Surface incoming shortwave irradiation (broadband)
+
+# MERRA-2 meteorological data
+# Date;UT time;Temperature;Relative Humidity;Pressure;Wind speed;Wind direction;Rainfall;Snowfall;Snow depth;Short-wave irradiation
+2020-05-01;24:00;305.21;38.23;979.90;0.46;153.84;0.029995;0.000000;0.000000;7202.5910
+2020-05-02;24:00;305.48;37.24;979.51;2.65;130.20;0.011936;0.000000;0.000000;7190.5260

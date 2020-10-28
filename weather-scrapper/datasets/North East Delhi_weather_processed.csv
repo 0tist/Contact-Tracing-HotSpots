@@ -1,0 +1,3 @@
+Date;UT time;Temperature;Relative Humidity;Pressure;Wind speed;Wind direction;Rainfall;Snowfall;Snow depth;Short-wave irradiation
+2020-05-01;24:00;305.89;33.48;980.06;0.29;265.23;0.000516;0.000000;0.000000;7368.1780
+2020-05-02;24:00;305.77;33.69;979.52;3.22;129.63;0.000307;0.000000;0.000000;7236.5320
