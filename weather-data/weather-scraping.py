@@ -33,8 +33,8 @@ formInputIds = ["latId",
 values = {
     "latId": "23",
     "lonId": "58",
-    "dateBegin": "2020-04-01",
-    "dateEnd": "2020-05-01"
+    "dateBegin": "2020-05-02",
+    "dateEnd": "2020-05-04"
 }
 
 district = "sample"
